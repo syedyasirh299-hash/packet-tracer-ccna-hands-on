@@ -1,6 +1,6 @@
 # Packet Tracer CCNA Hands-On Labs
 
-This repository contains a **hands-on collection of Cisco Packet Tracer lab exercises** designed for CCNA (Cisco Certified Network Associate) practice. These labs are made to help you **build and reinforce key networking skills** through real simulation files that you can open and configure in Cisco Packet Tracer. Packet Tracer is a visual network simulation tool that lets learners create and test network topologies and configurations without needing physical hardware. :contentReference[oaicite:0]{index=0}
+This repository contains a **hands-on collection of Cisco Packet Tracer lab exercises** designed for CCNA (Cisco Certified Network Associate) practice. These labs are made to help you **build and reinforce key networking skills** through real simulation files that you can open and configure in Cisco Packet Tracer. Packet Tracer is a visual network simulation tool that lets learners create and test network topologies and configurations without needing physical hardware. 
 
 ---
 
