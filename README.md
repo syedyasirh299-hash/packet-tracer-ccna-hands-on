@@ -23,4 +23,4 @@ This project includes `.pkt` simulation files for a range of networking topics l
 
 1. **Clone this repository**  
    ```bash
-   git clone https://github.com/<your-username>/packet-tracer-ccna-hands-on.git
+   git clone https://github.com/syedyasirh299-hash/packet-tracer-ccna-hands-on.git
