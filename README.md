@@ -8,13 +8,13 @@ This repository contains a **hands-on collection of Cisco Packet Tracer lab exer
 
 This project includes `.pkt` simulation files that focus on essential networking topics from the CCNA curriculum. These topics give you a practical foundation in modern networking:
 
-- **Basic Networking:** IP addressing, subnetting, and network topology setup — the fundamental concepts of how networks communicate. :contentReference[oaicite:1]{index=1}  
-- **Routing:** Static routing and dynamic routing protocols like RIP, OSPF, and EIGRP — used to direct traffic between different networks. :contentReference[oaicite:2]{index=2}  
-- **Switching:** VLANs, trunking, Spanning Tree Protocol (STP), and EtherChannel — technologies that help segment and organize network traffic. :contentReference[oaicite:3]{index=3}  
-- **Security:** Access Control Lists (ACLs), port security, and DHCP snooping — essentials for protecting and controlling network access. :contentReference[oaicite:4]{index=4}  
-- **WAN Technologies:** Concepts of wide area network connectivity and networking between distant sites. :contentReference[oaicite:5]{index=5}  
-- **IPv6 Networking:** IPv6 addressing and basic routing — modern network addressing beyond IPv4. :contentReference[oaicite:6]{index=6}  
-- **Network Services:** Core services such as DHCP, DNS, NAT, and logging — services that make networks functional and maintainable. :contentReference[oaicite:7]{index=7}
+- **Basic Networking:** IP addressing, subnetting, and network topology setup — the fundamental concepts of how networks communicate.
+- **Routing:** Static routing and dynamic routing protocols like RIP, OSPF, and EIGRP — used to direct traffic between different networks. 
+- **Switching:** VLANs, trunking, Spanning Tree Protocol (STP), and EtherChannel — technologies that help segment and organize network traffic. 
+- **Security:** Access Control Lists (ACLs), port security, and DHCP snooping — essentials for protecting and controlling network access. 
+- **WAN Technologies:** Concepts of wide area network connectivity and networking between distant sites. 
+- **IPv6 Networking:** IPv6 addressing and basic routing — modern network addressing beyond IPv4.
+- **Network Services:** Core services such as DHCP, DNS, NAT, and logging — services that make networks functional and maintainable. 
 
 ---
 
